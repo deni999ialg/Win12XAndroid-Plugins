@@ -1,6 +1,6 @@
 {
   "name": "Better Windows",
   "desc": "Enhances the appearance and functionality of your system windows for a modern look.",
-  "srcurl": "https://github.com/WebUro/Win12XAndroid-Plugins/raw/main/pluginsfolder/betterwin/plugin.src.js",
-  "img": "https://github.com/WebUro/Win12XAndroid-Plugins/raw/main/pluginsfolder/betterwin/img.png"
+  "srcurl": "https://raw.githubusercontent.com/WebUro/Win12XAndroid-Plugins/raw/main/pluginsfolder/betterwin/plugin.src.js",
+  "img": "https://raw.githubusercontent.com/WebUro/Win12XAndroid-Plugins/raw/main/pluginsfolder/betterwin/img.png"
 }
