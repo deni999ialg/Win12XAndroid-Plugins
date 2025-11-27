@@ -1,1 +1,6 @@
-
+{
+  "name": "Better Windows",
+  "desc": "It will look good if u install this plugin",
+  "srcurl": "/plugin.src.js",
+  "img": "/img.png"
+}
